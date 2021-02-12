@@ -1,5 +1,7 @@
 <p>This project is built with ReactJS, GatsbyJS, NodeJS, Bootstrap-4, SASS, GraphiQL, MDX, SVG and other dependencies. Site hosted on GitHub Pages link: </p> https://sungharsh.github.io/
 
+## 🚀 This repo is bundled and deployed version, please email me if you want to see the pre bundled repo.
+
 ![Screenshot](sungharsh-git-profile.png)
 
 <p align="center">
