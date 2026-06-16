@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0.2" y2="1">
+      <stop offset="0%" stop-color="#12344a" />
+      <stop offset="45%" stop-color="#0a1e32" />
+      <stop offset="100%" stop-color="#060f18" />
+    </linearGradient>
+    <radialGradient id="nebula-tr" cx="82%" cy="12%" r="42%">
+      <stop offset="0%" stop-color="#2a9aad" stop-opacity="0.45" />
+      <stop offset="55%" stop-color="#1a5f72" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#0a1e32" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="nebula-bl" cx="18%" cy="78%" r="38%">
+      <stop offset="0%" stop-color="#3d5a8a" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#060f18" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="milky" cx="50%" cy="38%" r="55%">
+      <stop offset="0%" stop-color="#8ec5d6" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#060f18" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1080" height="1920" fill="url(#sky)" />
+  <rect width="1080" height="1920" fill="url(#milky)" />
+  <rect width="1080" height="1920" fill="url(#nebula-tr)" />
+  <rect width="1080" height="1920" fill="url(#nebula-bl)" />
+
+  <g fill="#ffffff">
+    <circle cx="120" cy="180" r="1.6" opacity="0.95" />
+    <circle cx="280" cy="120" r="1.2" opacity="0.75" />
+    <circle cx="420" cy="210" r="1.4" opacity="0.85" />
+    <circle cx="560" cy="90" r="1.8" opacity="1" />
+    <circle cx="720" cy="160" r="1.3" opacity="0.8" />
+    <circle cx="880" cy="130" r="1.5" opacity="0.9" />
+    <circle cx="980" cy="240" r="1.1" opacity="0.7" />
+    <circle cx="160" cy="340" r="1.2" opacity="0.8" />
+    <circle cx="340" cy="380" r="1.6" opacity="0.95" />
+    <circle cx="510" cy="320" r="1.3" opacity="0.85" />
+    <circle cx="690" cy="360" r="1.4" opacity="0.9" />
+    <circle cx="840" cy="300" r="1.2" opacity="0.75" />
+    <circle cx="960" cy="420" r="1.5" opacity="0.88" />
+    <circle cx="90" cy="520" r="1.3" opacity="0.82" />
+    <circle cx="240" cy="560" r="1.1" opacity="0.7" />
+    <circle cx="400" cy="490" r="1.7" opacity="1" />
+    <circle cx="580" cy="540" r="1.2" opacity="0.78" />
+    <circle cx="750" cy="510" r="1.4" opacity="0.9" />
+    <circle cx="920" cy="580" r="1.3" opacity="0.8" />
+    <circle cx="130" cy="680" r="1.5" opacity="0.92" />
+    <circle cx="310" cy="720" r="1.2" opacity="0.76" />
+    <circle cx="480" cy="650" r="1.3" opacity="0.84" />
+    <circle cx="640" cy="710" r="1.6" opacity="0.96" />
+    <circle cx="810" cy="670" r="1.1" opacity="0.72" />
+    <circle cx="990" cy="740" r="1.4" opacity="0.88" />
+    <circle cx="200" cy="860" r="1.2" opacity="0.8" />
+    <circle cx="370" cy="820" r="1.5" opacity="0.9" />
+    <circle cx="540" cy="880" r="1.3" opacity="0.82" />
+    <circle cx="710" cy="830" r="1.2" opacity="0.77" />
+    <circle cx="870" cy="900" r="1.6" opacity="0.94" />
+    <circle cx="100" cy="980" r="1.4" opacity="0.86" />
+    <circle cx="260" cy="1020" r="1.1" opacity="0.74" />
+    <circle cx="430" cy="960" r="1.3" opacity="0.83" />
+    <circle cx="600" cy="1010" r="1.5" opacity="0.91" />
+    <circle cx="780" cy="970" r="1.2" opacity="0.79" />
+    <circle cx="950" cy="1040" r="1.4" opacity="0.87" />
+    <circle cx="170" cy="1120" r="1.3" opacity="0.81" />
+    <circle cx="350" cy="1160" r="1.6" opacity="0.95" />
+    <circle cx="520" cy="1100" r="1.2" opacity="0.76" />
+    <circle cx="690" cy="1150" r="1.4" opacity="0.88" />
+    <circle cx="860" cy="1110" r="1.1" opacity="0.73" />
+    <circle cx="80" cy="1240" r="1.5" opacity="0.9" />
+    <circle cx="240" cy="1280" r="1.2" opacity="0.78" />
+    <circle cx="410" cy="1220" r="1.4" opacity="0.86" />
+    <circle cx="580" cy="1270" r="1.3" opacity="0.82" />
+    <circle cx="760" cy="1230" r="1.6" opacity="0.96" />
+    <circle cx="930" cy="1290" r="1.2" opacity="0.77" />
+    <circle cx="150" cy="1380" r="1.1" opacity="0.74" />
+    <circle cx="320" cy="1420" r="1.5" opacity="0.92" />
+    <circle cx="500" cy="1360" r="1.3" opacity="0.84" />
+    <circle cx="670" cy="1410" r="1.2" opacity="0.79" />
+    <circle cx="840" cy="1370" r="1.4" opacity="0.88" />
+    <circle cx="990" cy="1440" r="1.3" opacity="0.8" />
+    <circle cx="110" cy="1520" r="1.4" opacity="0.87" />
+    <circle cx="290" cy="1560" r="1.2" opacity="0.76" />
+    <circle cx="460" cy="1500" r="1.6" opacity="0.94" />
+    <circle cx="630" cy="1550" r="1.1" opacity="0.72" />
+    <circle cx="800" cy="1510" r="1.5" opacity="0.91" />
+    <circle cx="970" cy="1580" r="1.3" opacity="0.83" />
+    <circle cx="190" cy="1680" r="1.2" opacity="0.78" />
+    <circle cx="360" cy="1720" r="1.4" opacity="0.86" />
+    <circle cx="540" cy="1660" r="1.3" opacity="0.81" />
+    <circle cx="710" cy="1710" r="1.5" opacity="0.9" />
+    <circle cx="880" cy="1670" r="1.2" opacity="0.77" />
+    <circle cx="1020" cy="1760" r="1.4" opacity="0.85" />
+  </g>
+
+  <g fill="#9ee7ff">
+    <circle cx="640" cy="140" r="2.2" opacity="0.95" />
+    <circle cx="820" cy="220" r="1.8" opacity="0.85" />
+    <circle cx="450" cy="410" r="2" opacity="0.9" />
+    <circle cx="300" cy="640" r="1.9" opacity="0.88" />
+    <circle cx="720" cy="590" r="2.1" opacity="0.92" />
+    <circle cx="520" cy="780" r="1.8" opacity="0.84" />
+    <circle cx="180" cy="920" r="2" opacity="0.9" />
+    <circle cx="860" cy="860" r="1.9" opacity="0.87" />
+    <circle cx="400" cy="1080" r="2.2" opacity="0.94" />
+    <circle cx="650" cy="1240" r="1.8" opacity="0.86" />
+    <circle cx="250" cy="1380" r="2" opacity="0.9" />
+    <circle cx="780" cy="1480" r="1.9" opacity="0.88" />
+    <circle cx="480" cy="1620" r="2.1" opacity="0.91" />
+  </g>
+
+  <g stroke="#7ec8e3" stroke-width="1.2" fill="none" opacity="0.35">
+    <polyline points="640,140 720,160 820,220 880,130" />
+    <polyline points="300,640 400,490 510,320 640,140" />
+    <polyline points="450,410 580,540 720,590 860,860" />
+    <polyline points="180,920 400,1080 650,1240 780,1480" />
+  </g>
+</svg>
