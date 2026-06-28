@@ -21,6 +21,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sungharsh.github.io/Blog/developer-then-and-now</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sungharsh.github.io/Blog/express-or-nestjs</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
