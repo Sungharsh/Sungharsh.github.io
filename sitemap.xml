@@ -6,52 +6,52 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/About</loc>
+    <loc>https://sungharsh.github.io/About/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/Blog</loc>
+    <loc>https://sungharsh.github.io/Blog/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/Contact</loc>
+    <loc>https://sungharsh.github.io/Contact/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/Blog/building-once-running-everywhere</loc>
+    <loc>https://sungharsh.github.io/Blog/building-once-running-everywhere/</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/Blog/developer-then-and-now</loc>
+    <loc>https://sungharsh.github.io/Blog/developer-then-and-now/</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/Blog/express-or-nestjs</loc>
+    <loc>https://sungharsh.github.io/Blog/express-or-nestjs/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/Blog/jquery-to-react</loc>
+    <loc>https://sungharsh.github.io/Blog/jquery-to-react/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/Blog/nextjs-or-not</loc>
+    <loc>https://sungharsh.github.io/Blog/nextjs-or-not/</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sungharsh.github.io/Blog/typescript-quirks</loc>
+    <loc>https://sungharsh.github.io/Blog/typescript-quirks/</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
